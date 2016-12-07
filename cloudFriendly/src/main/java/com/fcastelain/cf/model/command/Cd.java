@@ -1,7 +1,7 @@
-package main.java.com.fcastelain.cf.model.command;
+package com.fcastelain.cf.model.command;
 
-import main.java.com.fcastelain.cf.model.Command;
-import main.java.com.fcastelain.cf.model.Terminal;
+import com.fcastelain.cf.model.Command;
+import com.fcastelain.cf.model.Terminal;
 
 import java.nio.file.Files;
 import java.nio.file.Path;

@@ -1,4 +1,4 @@
-package main.java.com.fcastelain.cf.dao;
+package com.fcastelain.cf.dao;
 
 /**
  * Created by fcastelain on 28/11/16.

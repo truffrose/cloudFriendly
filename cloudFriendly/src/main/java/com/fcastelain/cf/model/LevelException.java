@@ -1,4 +1,4 @@
-package main.java.com.fcastelain.cf.model;
+package com.fcastelain.cf.model;
 
 /**
  * Created by fcastelain on 30/11/16.

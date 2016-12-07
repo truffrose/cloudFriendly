@@ -1,4 +1,4 @@
-package main.java.com.fcastelain.cf.model;
+package com.fcastelain.cf.model;
 
 public class User {
 

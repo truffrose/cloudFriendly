@@ -1,7 +1,7 @@
-package main.java.com.fcastelain.cf.dao;
+package com.fcastelain.cf.dao;
 
-import main.java.com.fcastelain.cf.model.User;
-import main.java.com.fcastelain.cf.persistence.MysqlConnector;
+import com.fcastelain.cf.model.User;
+import com.fcastelain.cf.persistence.MysqlConnector;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

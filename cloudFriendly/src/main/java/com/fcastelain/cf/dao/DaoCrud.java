@@ -1,4 +1,4 @@
-package main.java.com.fcastelain.cf.dao;
+package com.fcastelain.cf.dao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

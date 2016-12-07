@@ -1,4 +1,4 @@
-package main.java.com.fcastelain.cf.persistence;
+package com.fcastelain.cf.persistence;
 
 /**
  * Created by fcastelain on 28/11/16.

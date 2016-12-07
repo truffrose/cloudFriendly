@@ -1,9 +1,9 @@
-package main.java.com.fcastelain.cf.model.command;
+package com.fcastelain.cf.model.command;
 
-import main.java.com.fcastelain.cf.model.Command;
-import main.java.com.fcastelain.cf.model.CommandException;
-import main.java.com.fcastelain.cf.model.LevelException;
-import main.java.com.fcastelain.cf.model.Terminal;
+import com.fcastelain.cf.model.Command;
+import com.fcastelain.cf.model.CommandException;
+import com.fcastelain.cf.model.LevelException;
+import com.fcastelain.cf.model.Terminal;
 
 import java.io.IOException;
 import java.nio.file.Files;

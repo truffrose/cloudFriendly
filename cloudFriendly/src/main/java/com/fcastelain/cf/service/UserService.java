@@ -1,7 +1,7 @@
-package main.java.com.fcastelain.cf.service;
+package com.fcastelain.cf.service;
 
-import main.java.com.fcastelain.cf.dao.DaoUser;
-import main.java.com.fcastelain.cf.model.User;
+import com.fcastelain.cf.dao.DaoUser;
+import com.fcastelain.cf.model.User;
 
 import java.util.List;
 

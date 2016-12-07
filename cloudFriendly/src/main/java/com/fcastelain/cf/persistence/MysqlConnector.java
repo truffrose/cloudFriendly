@@ -1,4 +1,4 @@
-package main.java.com.fcastelain.cf.persistence;
+package com.fcastelain.cf.persistence;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -22,6 +22,13 @@ public enum MysqlConnector {
 
     // automatically load with the class
     static {
+        // automatically load witht the class
+        try {
+            Class.forName("com.mysql.cj.jdbc.Driver");
+        } catch (ClassNotFoundException e1) {
+            e1.printStackTrace();
+        }
+
         Properties properties = new Properties();
         try {
             properties.load(new FileInputStream(new File(PROPERTIES_FILE)));

@@ -1,9 +1,9 @@
-package main.java.com.fcastelain.cf.cli;
+package com.fcastelain.cf.cli;
 
-import main.java.com.fcastelain.cf.model.Command;
-import main.java.com.fcastelain.cf.model.Terminal;
-import main.java.com.fcastelain.cf.model.User;
-import main.java.com.fcastelain.cf.service.UserService;
+import com.fcastelain.cf.model.Command;
+import com.fcastelain.cf.model.Terminal;
+import com.fcastelain.cf.model.User;
+import com.fcastelain.cf.service.UserService;
 
 // import java.io.Console;
 import java.util.ArrayList;

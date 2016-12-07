@@ -1,6 +1,6 @@
-package main.java.com.fcastelain.cf.cli;
+package com.fcastelain.cf.cli;
 
-import main.java.com.fcastelain.cf.model.Command;
+import com.fcastelain.cf.model.Command;
 
 import java.nio.file.Path;
 

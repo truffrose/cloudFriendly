@@ -1,0 +1,5 @@
+package com.fcastelain.cf.model;
+
+public class Command {
+
+}

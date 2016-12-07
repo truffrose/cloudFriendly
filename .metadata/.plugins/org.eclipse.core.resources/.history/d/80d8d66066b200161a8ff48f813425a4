@@ -1,0 +1,27 @@
+package com.fcastelain.cf.model;
+
+public class Terminal {
+
+	// list of variables
+	private String path;
+	private User currentUser;
+
+	// list of constructors
+	public Terminal() {
+		this("");
+	}
+	public Terminal(String path) {
+		super();
+		this.path = path;
+	}
+
+	// getters and setters
+	public String getPath() {
+		return this.path;
+	}
+	
+	public void setPath(String path) {
+		this.path = path;
+	}
+	
+}

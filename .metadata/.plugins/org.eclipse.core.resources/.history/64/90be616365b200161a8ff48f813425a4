@@ -1,0 +1,28 @@
+package com.fcastelain.cf.model;
+
+public class User {
+
+	// list of variables
+	private String name;
+	private String mail;
+	private String password;
+	
+	// list of constructor
+	public User() {
+		this("", "", "");
+	}
+	public User(String name, String password) {
+		super(name, "", password);
+		this.name = name;
+		this.password = password;
+	}
+	public User(String name, String mail, String password) {
+		super();
+		this.name = name;
+		this.mail = mail;
+		this.password = password;
+	}
+	
+	
+	
+}
